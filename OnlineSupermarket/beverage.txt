@@ -1,0 +1,6 @@
+Cola , Packaged 2.5 10 40
+Fruit Juice , Packaged 1 6 54
+Ice Tea , Packaged 2.5 10 5
+Mineral Water , Packaged 0.3 4 0
+Water , Packaged 0.2 1.5 0
+Lemonade , Packaged 1 8 40

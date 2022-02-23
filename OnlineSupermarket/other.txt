@@ -1,0 +1,12 @@
+Air Freshener , Packaged 1 30 Reusable
+Bag , Unpackaged 1 5 Disposable
+Mask , Packaged 100 30 Disposable
+Lamp , Packaged 1 15 Reusable
+Wet Towel , Packaged 150 20 Reusable
+Plate , Unpackaged 1 21 Reusable
+Slipper , Packaged 1 100 Reusable
+Candle , Packaged 5 40 Reusable
+Napkin , Packaged 50 7 Disposable
+Glass , Packaged 1 13 Reusable
+Battery , Packaged 3 10 Reusable
+Plastic Glove , Packaged 50 70 Disposable

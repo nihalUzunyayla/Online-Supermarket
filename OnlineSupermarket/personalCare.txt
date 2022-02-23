@@ -1,0 +1,12 @@
+Shampoo , Packaged 0.3 30 Cleaning
+Tooth Paste , Packaged 0.03 17 Cleaning
+Face Gel , Packaged 0.6 20 Cleaning
+Perfume , Packaged 0.05 75 Care
+Shower Gel , Packaged 0.6 23 Cleaning
+Comb , Packaged 1 15 Care
+Hair Cream , Packaged 0.02 60 Care
+Cologne , Packaged 0.5 30 Care
+Toothbrush , Packaged 2 40 Cleaning
+Moisturiser , Packaged 0.04 100 Care
+Shaving Foam , Packaged 0.5 45 Care
+Deodorant , Packaged 0.07 35 Care

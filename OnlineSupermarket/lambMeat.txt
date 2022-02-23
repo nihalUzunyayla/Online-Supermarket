@@ -1,0 +1,3 @@
+Lamb Cube , Unpackaged 0.5 100 295
+Ground Lamb , Unpackaged 1 101 282
+Tenderloin , Unpackaged 0.75 150 294

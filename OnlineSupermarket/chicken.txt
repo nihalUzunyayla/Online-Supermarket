@@ -1,0 +1,3 @@
+Leg , Packaged 1 25 121
+Breast , Packaged 1.5 40 239
+Wing , Packaged 2 30 203

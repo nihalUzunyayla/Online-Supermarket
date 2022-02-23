@@ -1,0 +1,9 @@
+Milk , Packaged 1 12 43
+Egg , Packaged 1.2 35 155
+Butter , Packaged 0.5 80 716
+Feta Cheese , Packaged 1 55 98
+Kashar Cheese , Packaged 0.5 90 355
+Kefir , Packaged 1 20 52
+Yogurt , Packaged 1 15 58
+Cottage Cheese , Packaged 0.5 30 98
+Sour Cream , Packaged 0.25 20 195

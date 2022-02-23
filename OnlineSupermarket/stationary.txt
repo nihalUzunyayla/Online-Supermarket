@@ -1,0 +1,12 @@
+Notebook , Unpackaged 2 20 Wood
+Eraser , Packaged 1 4 Plastic
+Tape , Packaged 1 5 Plastic
+Book , Unpackaged 1 35 Wood
+Pen , Unpackaged 3 30 Plastic
+Sharpener , Unpackaged 1 4 Plastic
+Nib , Packaged 1 7 Lead
+School Bag , Unpackaged 1 70 Cloth
+Agenda , Unpackaged 1 40 Wood
+Scissors , Packaged 1 20 Metal
+Pencil Case , Unpackaged 1 30 Cloth
+Postit , Packaged 20 10 Wood

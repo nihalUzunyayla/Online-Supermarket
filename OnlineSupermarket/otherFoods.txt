@@ -1,0 +1,9 @@
+Bread , Unpackaged 0.25 3 265
+Bulgur , Packaged 5 35 342
+Chickpea , Packaged 3 15 365
+Flour , Packaged 5 50 364
+Olive Oil , Packaged 5 280 884
+Rice , Packaged 5 60 130
+Kidney Beans , Packaged 2 20 347
+Sauce , Packaged 0.75 30 82
+Sunflower Oil , Packaged 5 170 884  

@@ -1,0 +1,12 @@
+Dishwashing Soap , Packaged 0.5 15 Liquid
+Surface Blow , Packaged 1 20 Liquid
+Liquid Soap , Packaged 5 50 Liquid
+Cleaning Bucket , Packaged 1 80 Equipment
+Lime Remover , Packaged 3 30 Liquid
+Laundry Detergent , Packaged 5 45 Liquid
+Bleacher , Packaged 2 27 Liquid
+Window Cleaner , Packaged 1 15 Liquid
+Wire Wool , Packaged 3 12 Equipment
+Softener , Packaged 1 25 Liquid
+Swab , Packaged 2 20 Equipment
+Dish Sponge , Packaged 3 15 Equipment

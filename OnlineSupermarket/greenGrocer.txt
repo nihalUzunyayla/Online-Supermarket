@@ -1,0 +1,12 @@
+Apple , Unpackaged 1 7 52 A Fruit
+Kiwi , Unpackaged 1 10 60 C Fruit
+Cucumber , Unpackaged 1 6 15 B Vegetable
+Orange , Unpackaged 1 10 44 C Fruit
+Tomato , Unpackaged 1 5 18 A Vegetable
+Pomegranate , Unpackaged 1 15 82 C Fruit
+Pepper , Unpackaged 1 8 40 C Vegetable
+Lemon , Unpackaged 1 13 29 C Vegetable
+Carrot , Unpackaged 1 9 41 A Vegetable
+Strawberry , Unpackaged 1 18 33 C Fruit
+Eggplant , Unpackaged 1 14 25 K Vegetable
+Grape , Unpackaged 1 9 67 A Fruit

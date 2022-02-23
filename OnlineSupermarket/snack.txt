@@ -1,0 +1,6 @@
+Candy , Unpackaged 1 37 386
+Chocolate , Packaged 0.035 12 546
+Chips , Packaged 0.04 15 536
+Icecream , Unpackaged 0.5 20 207
+Popcorn , Unpackaged 0.2 15 374
+Biscuits , Packaged 0.05 8 353
