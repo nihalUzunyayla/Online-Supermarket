@@ -3,7 +3,7 @@ Online Supermarket is a shopping program that includes some basic online shoppin
 ## Installation and Running the Program
 ![download](https://user-images.githubusercontent.com/99769537/155284539-4c8b9dfb-6d5a-4b38-b12a-aa95db699a27.png)
   + Open the zip file by clicking on it.
-  + Click the download button to download the zip file.  
+  + Click the download button shown above to download the zip file.  
   + After downloading, extract the project folder from the zip file.  
   + To execute the program open an IDE for java.  
   + Click on the file option in the IDE and click on the open project, then select the project folder from there.  
