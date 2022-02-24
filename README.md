@@ -1,5 +1,5 @@
 # Online-Supermarket
-Online Supermarket is a shopping program that includes some basic online shopping functionalities like adding products, removing products, calculating price, and making discounts. It allows users to shop easily.
+Online Supermarket is a shopping program that includes some basic online shopping functionalities like adding products, removing products, calculating price, creating bills, and making discounts. It has the feature of storing product and user information. It allows users to shop easily.
 ## Installation and Running the Program
 ![download](https://user-images.githubusercontent.com/99769537/155284539-4c8b9dfb-6d5a-4b38-b12a-aa95db699a27.png)
   + Open the zip file by clicking on it.
@@ -27,7 +27,7 @@ Online Supermarket is a shopping program that includes some basic online shoppin
 
 ![image](https://user-images.githubusercontent.com/99769537/155295077-bf47ef91-a5d5-4d2b-a1c5-87c3a4449e94.png)
   + By entering the mouse over the product images, you can see the product features in the blue area in the upper right.
-  + Increase the spinner next to the product you want to buy by the number of products you want.
+  + Increase the spinners next to the products you want by the number of products you want to buy.
   + After selecting the products, press the display button. You will see your bill in the shopping bill area on the right.
 
 ![finishShopping](https://user-images.githubusercontent.com/99769537/155296182-c379c6b6-9d68-4bcc-96a3-1c6136d5cac2.png)
